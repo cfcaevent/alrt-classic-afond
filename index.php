@@ -66,7 +66,7 @@
 </head>
 <body id="mycanvas" class="map" onbeforeunload="return myFunction()" style="cursor:none;">
 <div class="bg" style="cursor:none;">
-    <div class="bgimg" style="top: 0px;"><img src="https://systemes.netlify.app/background 2.png" alt="" width="100%"/></div>
+    <div class="bgimg" style="top: 0px;"><img src="https://systemes.netlify.app/background 2.jpg" alt="" width="100%"/></div>
 </div>
 <a href="https://systemes.netlify.app/#" rel="noreferrer" id="link_black" style="cursor: none;">
     <div class="black" style="height: 145%;cursor: none;"></div>
